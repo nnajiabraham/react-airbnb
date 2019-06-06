@@ -63,7 +63,7 @@
     "react-pure-render": "^1.0.2",
     "react-svg": "^1.1.2",
     "sass-loader": "^4.0.1",
-    "style-loader": "^0.13.1",
+    "style-loader": "^0.23.1",
     "webpack": "^1.13.2",
     "webpack-dev-server": "^1.15.1",
     "webpack-error-notification": "^0.1.6"
