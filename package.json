@@ -27,7 +27,7 @@
     "npm": "^3.10.6",
     "passport": "^0.3.2",
     "path": "^0.12.7",
-    "radium": "^0.18.1",
+    "radium": "^0.25.1",
     "react": "^15.4.2",
     "react-addons-shallow-compare": "^15.3.1",
     "react-burger-menu": "^1.10.4",
